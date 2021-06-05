@@ -1,0 +1,14 @@
+{
+  "name": "primeur-ali",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+   "start": " serve"
+
+  },
+  "keywords": [],
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
